@@ -1,2 +1,2 @@
 console.log('A');console.log('AA');
-console.log('resetの練習')
+console.log('ブランチの練習')
